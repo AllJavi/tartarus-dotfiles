@@ -30,6 +30,7 @@
 - [Table of Contents](#table-of-contents)
 - [General Information 💻](#general-information-)
 - [Hardware specs ⚙️](#hardware-specs-️)
+- [Important Message](#important-message)
 - [Wallpapers 🌃](#wallpapers-)
   - [Guweiz: Artstation](#guweiz-artstation)
 - [Color Theme 🖌](#color-theme-)
@@ -49,6 +50,7 @@
 - [Spicetify 📻](#spicetify-)
 - [BetterDiscord](#betterdiscord)
 - [Firefox StartPage 🏠](#firefox-startpage-)
+- [Inspired by 🪐](#inspired-by-)
 
 ## General Information 💻
 - **OS:** EndeavourOS
@@ -78,6 +80,9 @@ This is mentioned becouse I have a couple of specific configurations that only w
 - **Dual monitor setup**
 
 **Note:** On my os configuration I only use the external graphic card
+
+## Important Message
+This dotfiles have been created to use them as a base not to just copy them into your system. So make sure you deep dive in the code and adapt it to your system.
 
 ## Wallpapers 🌃
 ### Guweiz: [Artstation](https://www.artstation.com/guweiz)
@@ -271,3 +276,13 @@ The gif I use the following [gif](https://media.giphy.com/media/3BwNcKOTAVWBa/gi
 | --accent-color2 | #A9B665         | 
 
 And finally, you only need to fill with the links and categories you want to have.
+
+## Inspired by 🪐
+- [the glorious dotfiles](https://github.com/manilarome/the-glorious-dotfiles): Big inspiration and learning source for awesomeWM
+- [purhan/dotfiles](https://github.com/purhan/dotfiles): Really big learning source for awesomeWM (just simpler than the glorious dotfiles)
+- [reddit post](https://www.reddit.com/r/unixporn/comments/jwh6fr/bspwm_aesthetic_anime/): Main visual inspiration of what I want
+- [distrotube](https://distro.tube/): As a reference to compose all the system with his configuration files
+
+<div id="header" align='center'>
+  <h1>⚜️ GAME OVER ⚜️</h1>
+</div>
