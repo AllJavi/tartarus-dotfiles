@@ -1,3 +1,12 @@
+--      _    _ _     _             _ 
+--     / \  | | |   | | __ ___   _(_)
+--    / _ \ | | |_  | |/ _` \ \ / / |
+--   / ___ \| | | |_| | (_| |\ V /| |
+--  /_/   \_\_|_|\___/ \__,_| \_/ |_|
+--
+--  github: @AllJavi
+--
+
 local gears = require("gears")
 local beautiful = require('beautiful')
 local awful = require("awful")

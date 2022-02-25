@@ -1,12 +1,7 @@
 <div id="header" align='center'>
-    <img src='Images/Logos/Xana.svg' width="150px" style="margin-bottom:10px">
-    <h1 style="
-        border-bottom: none;
-        font-weight: 900;
-        color: #d4be98; 
-        font-size: 2.5em; 
-        margin-bottom: 10px">
-        Tartarus</h1> 
+    <img src='Images/Utils/Header.png' width="200px" style="margin-bottom:15px">
+</div>
+<div id="header" align='center'>
     <a href="https://github.com/AllJavi/dotfiles/stargazers">
         <img src="https://img.shields.io/github/stars/AllJavi/dotfiles?color=a9b665&style=for-the-badge&logo=starship">
     </a>
@@ -44,6 +39,9 @@
   - [Custom Icomoon Font: Icomoon](#custom-icomoon-font-icomoon)
 - [LightDM Mini Greeter 🔒](#lightdm-mini-greeter-)
 - [Awesome 🪄](#awesome-)
+  - [Requirements](#requirements)
+  - [Useful Shortcuts](#useful-shortcuts)
+  - [Recomendations](#recomendations)
 - [Starship 🚀](#starship-)
 - [Rofi Launcher 📤](#rofi-launcher-)
 - [Rofi Power Menu🔋](#rofi-power-menu)
@@ -142,7 +140,37 @@ background-color = "#282828"
 In my personal [LigthDM](./LightDM-Mini-Greeter/lightdm.conf) configuration I have a display-setup-script, this is only necesary if you need to for your graphics drives or screen setup and you need to adapt the script to your own needs. 
 
 ## Awesome 🪄 
+### Requirements
+Make sure you check or change the default apps configuration [~/.config/awesome/configuration/apps.lua](.config/awesome/configuration/apps.lua)
+And if you want to use the spofify widget you need to have spotify CLI installed, it uses dbus to communicate with spotify-client:
+```
+git clone https://gist.github.com/fa6258f3ff7b17747ee3.git
+cd ./fa6258f3ff7b17747ee3 
+chmod +x sp
+sudo cp ./sp /usr/local/bin/
+```
+### Useful Shortcuts
+- **MOD + H:** To show all the shortcuts
+- **MOD + Q:** Open/Close Dashboard
+- **MOD + Enter:** Open Terminal
+- **MOD + Shift + C:** Close Client
 
+### Recomendations
+For the dashboard I use my own custom icons and routes. Check careful the [theme file](.config/awesome/theme/default-theme.lua) and change the global routes for your own routes and use your own icons.
+```
+    ...
+    -- User profile
+    theme.user_picture = ...
+
+    -- folder icons
+    theme.code_folder = ...
+    theme.design_folder = ...
+    theme.teleco_folder = ...
+    theme.download_folder = ...
+    theme.design3d_folder = ...
+    theme.shared_folder = ...
+    ...
+```
 
 ## Starship 🚀
 [The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://starship.rs/)

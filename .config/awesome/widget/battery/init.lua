@@ -1,3 +1,13 @@
+--      _    _ _     _             _ 
+--     / \  | | |   | | __ ___   _(_)
+--    / _ \ | | |_  | |/ _` \ \ / / |
+--   / ___ \| | | |_| | (_| |\ V /| |
+--  /_/   \_\_|_|\___/ \__,_| \_/ |_|
+--
+--  github: @AllJavi
+--
+--  battery widget indicator
+
 local awful = require('awful')
 local wibox = require('wibox')
 local naughty = require('naughty')

@@ -1,3 +1,12 @@
+--      _    _ _     _             _ 
+--     / \  | | |   | | __ ___   _(_)
+--    / _ \ | | |_  | |/ _` \ \ / / |
+--   / ___ \| | | |_| | (_| |\ V /| |
+--  /_/   \_\_|_|\___/ \__,_| \_/ |_|
+--
+--  github: @AllJavi
+--
+
 local awful = require('awful')
 local tasklist_panel = require('layout.tasklist-panel')
 local top_panel = require('layout.top-panel')

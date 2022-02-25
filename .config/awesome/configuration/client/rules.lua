@@ -1,3 +1,13 @@
+--      _    _ _     _             _ 
+--     / \  | | |   | | __ ___   _(_)
+--    / _ \ | | |_  | |/ _` \ \ / / |
+--   / ___ \| | | |_| | (_| |\ V /| |
+--  /_/   \_\_|_|\___/ \__,_| \_/ |_|
+--
+--  github: @AllJavi
+--
+-- Client rules configuration
+
 local awful = require('awful')
 local gears = require('gears')
 local ruled = require("ruled")

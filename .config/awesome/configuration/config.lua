@@ -1,3 +1,13 @@
+--      _    _ _     _             _ 
+--     / \  | | |   | | __ ___   _(_)
+--    / _ \ | | |_  | |/ _` \ \ / / |
+--   / ___ \| | | |_| | (_| |\ V /| |
+--  /_/   \_\_|_|\___/ \__,_| \_/ |_|
+--
+--  github: @AllJavi
+--
+--  Custom configuration for some modules
+
 return {
 	widget = {
 		network = {
@@ -11,7 +21,7 @@ return {
 	module = {
 		auto_start = {
 			-- Will create notification if true
-			debug_mode = true
+			debug_mode = false
 		}
 	}
 }

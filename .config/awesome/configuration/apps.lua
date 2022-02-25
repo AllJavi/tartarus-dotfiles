@@ -1,3 +1,13 @@
+--      _    _ _     _             _ 
+--     / \  | | |   | | __ ___   _(_)
+--    / _ \ | | |_  | |/ _` \ \ / / |
+--   / ___ \| | | |_| | (_| |\ V /| |
+--  /_/   \_\_|_|\___/ \__,_| \_/ |_|
+--
+--  github: @AllJavi
+--
+--  Default system apps
+
 local filesystem = require('gears.filesystem')
 local config_dir = filesystem.get_configuration_dir()
 local utils_dir = config_dir .. 'utilities/'
