@@ -82,7 +82,7 @@ This is mentioned becouse I have a couple of specific configurations that only w
 **Note:** On my os configuration I only use the external graphic card
 
 ## Important Message
-This dotfiles have been created to use them as a base not to just copy them into your system. So make sure you deep dive in the code and adapt it to your system.
+This dotfiles were created to use them as a base not to just copy them into your system. So make sure you deep dive in the code and customize it to your system.
 
 ## Wallpapers 🌃
 ### Guweiz: [Artstation](https://www.artstation.com/guweiz)
@@ -91,7 +91,7 @@ Main | Secundary
 |<img src="Images/Wallpapers/main-ultrawide.png"> | <img src="Images/Wallpapers/secundary-ultrawide.png">|
 |[Original](Images/Wallpapers/main-wide.jpg)|[Original](Images/Wallpapers/secundary-wide.jpg)|
 
-I modified them to change their ratio to 21:9 and fill my ultrawide screen and that makes the borders messy so if you want the full quality of the artist use the originals.
+I modified these images to fit my ultrawide 21:9 screen, which messed up the borders. If you want the best quality, use the original versions of the artwork.
 
 ## Color Theme 🖌
 ### Material Gruvbox
@@ -113,7 +113,7 @@ I really like to put details and reference tv shows and films I like, so I have 
 Preview:
 <img src="Images/Utils/icomoon_preview.png">
 
-You need to be careful with what nerd font you use because they can overlap between them, I only have tested with JetBrains.
+You need to be careful with what nerd font you use because they can overlap between them, I have only tested with JetBrains.
 
 The fastest way to install them is to put it on your
 ```~/.local/share/fonts/ttf/```
@@ -142,7 +142,8 @@ background-image = "<your-own-route>"
 background-color = "#282828"
 ...
 ```
-In my personal [LigthDM](./LightDM-Mini-Greeter/lightdm.conf) configuration I have a display-setup-script, this is only necesary if you need to for your graphics drives or screen setup and you need to adapt the script to your own needs. 
+
+In my personal [LightDM](./LightDM-Mini-Greeter/lightdm.conf) configuration, I have a display-setup-script that is only necessary if you need to configure your graphics drivers or screen setup. You will need to customize the script for your specific needs.
 
 ## Awesome 🪄 
 ### Requirements
@@ -233,7 +234,7 @@ Theme:
 Plugins:
  - [Game Activity toggle](https://betterdiscord.app/plugin/GameActivityToggle)
  - [Joined At Date](https://betterdiscord.app/plugin/JoinedAtDate)
- - [Show Hidden Channels](https://betterdiscord.app/plugin/ShowHiddenChannels)
+ - [Show Hidden Channels](https://github.com/JustOptimize/return-ShowHiddenChannels)
  - [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
 
 Screenshot:
@@ -258,7 +259,7 @@ If you want to use the same exact theme you need to upload the secundary wallpap
 ``` 
 
 ## Firefox StartPage 🏠
-The start page is [Fluidity](https://github.com/PrettyCoffee/fluidity) is all ready build and you only need to configure the [new tab](https://addons.mozilla.org/es/firefox/addon/new-tab-override/) extension and link to the live demo of the proyect.
+The start page is [Fluidity](https://github.com/PrettyCoffee/fluidity) and it's already built. You just need to set up the [new tab](https://addons.mozilla.org/es/firefox/addon/new-tab-override/) extension and link it to the live demo of the project. Meanwhile, the Firefox theme is available on the official store [Material Gruvbox](https://addons.mozilla.org/es/firefox/addon/material-gruvbox), so you can download and use it.
 
 Screenshot:
 
