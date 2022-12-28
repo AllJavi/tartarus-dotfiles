@@ -131,7 +131,7 @@ local function list_update(w, buttons, label, data, objects)
 
 	bgl = wibox.container.background()
         bgl:set_bg(bg)
-	bgl.shape = gears.shape.transform(gears.shape.rectangle) : scale(1, 0.08) : translate(0, 385)
+	bgl.shape = gears.shape.transform(gears.shape.rectangle) : scale(1, 0.08) : translate(0, 365)
 	
 	bl = wibox.widget {
 		bgb,
