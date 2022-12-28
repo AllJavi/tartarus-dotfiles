@@ -154,6 +154,7 @@ style = "bold bg:none fg:yellow"
 
 [status]
 disabled = false
+symbol = '✗'
 
 [line_break]
 disabled = true
