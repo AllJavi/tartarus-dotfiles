@@ -2,16 +2,16 @@
     <img src='Images/Utils/Header.png' width="200px" style="margin-bottom:15px">
 </div>
 <div id="header" align='center'>
-    <a href="https://github.com/AllJavi/dotfiles/stargazers">
-        <img src="https://img.shields.io/github/stars/AllJavi/dotfiles?color=a9b665&style=for-the-badge&logo=starship">
+    <a href="https://github.com/AllJavi/tartarus-dotfiles/stargazers">
+        <img src="https://img.shields.io/github/stars/AllJavi/tartarus-dotfiles?color=a9b665&style=for-the-badge&logo=starship">
     </a>
-    <a href="https://github.com/AllJavi/dotfiles/issues">
-        <img src="https://img.shields.io/github/issues/AllJavi/dotfiles?color=ea6962&style=for-the-badge&logo=codecov">
+    <a href="https://github.com/AllJavi/tartarus-dotfiles/issues">
+        <img src="https://img.shields.io/github/issues/AllJavi/tartarus-dotfiles?color=ea6962&style=for-the-badge&logo=codecov">
     </a>
-    <a href="https://github.com/AllJavi/dotfiles/network/members">
-        <img src="https://img.shields.io/github/forks/AllJavi/dotfiles?color=7daea3&style=for-the-badge&logo=jfrog-bintray">
+    <a href="https://github.com/AllJavi/tartarus-dotfiles/network/members">
+        <img src="https://img.shields.io/github/forks/AllJavi/tartarus-dotfiles?color=7daea3&style=for-the-badge&logo=jfrog-bintray">
     </a>
-    <a href="https://github.com/AllJavi/dotfiles/blob/main/LICENSE">
+    <a href="https://github.com/AllJavi/tartarus-dotfiles/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-orange.svg?color=d4be98&style=for-the-badge&logo=archlinux">
     </a>
     <h1 style="border-color:#d4be9855"></h1>
