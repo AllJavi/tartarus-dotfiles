@@ -10,7 +10,7 @@
 #  Just delete de icons you can't see an use icons from nerd fonts.
 
 format = """
-[  $username ]\
+[  $username$hostname ]\
 (bold bg:black fg:white)\
 []\
 (bold bg:purple fg:black)\
@@ -94,6 +94,11 @@ show_always = true
 style_user = "bold bg:black fg:white"
 style_root = "bold bg:black fg:white"
 format = "[$user]($style)"
+
+[hostname]
+ssh_only = true
+style = "bg:black fg:white"
+format = "[@$hostname]($style)"
 
 [git_branch]
 symbol = " "
