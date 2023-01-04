@@ -267,16 +267,7 @@ Screenshot:
   <img src="Images/Screenshots/homepage.png">
 </div>
 
-The gif I use the following [gif](https://media.giphy.com/media/3BwNcKOTAVWBa/giphy.gif) and the following colors:
-
-| Class           | Color           |
-| --------------- | --------------- |
-| --bg-color      | #282828         |
-| --default-color | #D4BE98         |
-| --accent-color  | #7DAEA3         | 
-| --accent-color2 | #A9B665         | 
-
-And finally, you only need to fill with the links and categories you want to have.
+The theme is already available on the web, so you can just select it and fill it with the categories you want. 
 
 ## Inspired by 🪐
 - [the glorious dotfiles](https://github.com/manilarome/the-glorious-dotfiles): Big inspiration and learning source for awesomeWM
