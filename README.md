@@ -14,7 +14,6 @@
     <a href="https://github.com/AllJavi/tartarus-dotfiles/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-orange.svg?color=d4be98&style=for-the-badge&logo=archlinux">
     </a>
-    <h1 style="border-color:#d4be9855"></h1>
 </div>
 
 ## ScreenShots
