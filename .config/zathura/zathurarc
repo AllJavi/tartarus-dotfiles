@@ -1,29 +1,39 @@
-set recolor "true"
-set completion-bg "#282828"
-set completion-fg "#d4be98"
-set completion-group-bg "#282828"
-set completion-group-fg "#7daea3"
-set completion-highlight-bg "#d4be98"
-set completion-highlight-fg "#282828"
-set recolor-lightcolor "#282828"
-set recolor-darkcolor "#d4be98"
-set default-bg "#282828"
-set inputbar-bg "#282828"
-set inputbar-fg "#d4be98"
-set notification-bg "#282828"
-set notification-fg "#d4be98"
-set notification-error-bg "#a9b665"
-set notification-error-fg "#d4be98"
-set notification-warning-bg "#a9b665"
-set notification-warning-fg "#d4be98"
-set statusbar-bg "#282828"
-set statusbar-fg "#d4be98"
-set index-bg "#282828"
-set index-fg "#d4be98"
-set index-active-bg "#d4be98"
-set index-active-fg "#282828"
-set render-loading-bg "#282828"
-set render-loading-fg "#d4be98"
-set window-title-home-tilde true
-set statusbar-basename true
-set selection-clipboard clipboard
+set recolor                         "true"
+
+set default-fg                      "#d4be98"
+set default-bg                      "#1d2021"
+
+set completion-bg                   "#32302f"
+set completion-fg                   "#d4be98"
+set completion-highlight-bg         "#3c3836"
+set completion-highlight-fg         "#d4be98"
+set completion-group-bg             "#32302f"
+set completion-group-fg             "#a9b665"
+
+set statusbar-fg                    "#d4be98"
+set statusbar-bg                    "#32302f"
+
+set notification-bg                 "#32302f"
+set notification-fg                 "#d4be98"
+set notification-error-bg           "#32302f"
+set notification-error-fg           "#ea6962"
+set notification-warning-bg         "#32302f"
+set notification-warning-fg         "#FAE3B0"
+
+set inputbar-fg                     "#d4be98"
+set inputbar-bg                     "#32302f"
+
+set recolor-lightcolor              "#282828"
+set recolor-darkcolor               "#d4be98"
+
+set index-fg                        "#d4be98"
+set index-bg                        "#282828"
+set index-active-fg                 "#d4be98"
+set index-active-bg                 "#32302f"
+
+set render-loading-bg               "#282828"
+set render-loading-fg               "#d4be98"
+
+set highlight-color                 "#3c3836"
+set highlight-fg                    "#e78a4e"
+set highlight-active-color          "#e78a4e"
