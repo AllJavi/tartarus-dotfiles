@@ -58,7 +58,7 @@
 - **Fonts:** JetBrains Mono Nerd Font, Custom Icomoon Font
 - **Session Manager:** LightDM
 - **LightDM Theme:** lightdm mini greeter
-- **WM:** AwesomeWM
+- **WM:** AwesomeWM-git
 - **Compositor:** Picom
 - **Terminal:** Kitty
 - **Shell:** Fish
