@@ -49,6 +49,7 @@
 - [Spicetify 📻](#spicetify-)
 - [BetterDiscord](#betterdiscord)
 - [Firefox StartPage 🏠](#firefox-startpage-)
+- [Blender 🧊](#blender-)
 - [Inspired by 🪐](#inspired-by-)
 
 ## General Information 💻
@@ -267,6 +268,14 @@ Screenshot:
 </div>
 
 The theme is already available on the web, so you can just select it and fill it with the categories you want. 
+
+## Blender 🧊
+For the [material gruvbox theme](/Blender/material_gruvbox_dark.xml) on Blender, you just need to install it on `Preferences -> Theme -> install` 
+
+Screenshot:
+<div align="center">
+  <img src="Images/Screenshots/blender.png">
+</div>
 
 ## Inspired by 🪐
 - [the glorious dotfiles](https://github.com/manilarome/the-glorious-dotfiles): Big inspiration and learning source for awesomeWM
