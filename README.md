@@ -11,8 +11,11 @@
     <a href="https://github.com/AllJavi/tartarus-dotfiles/network/members">
         <img src="https://img.shields.io/github/forks/AllJavi/tartarus-dotfiles?color=7daea3&style=for-the-badge&logo=jfrog-bintray">
     </a>
-    <a href="https://github.com/AllJavi/tartarus-dotfiles/blob/main/LICENSE">
+    <a href="https://github.com/AllJavi/tartarus-dotfiles/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-orange.svg?color=d4be98&style=for-the-badge&logo=archlinux">
+    </a>
+    <a href="https://github.com/zemmsoares/awesome-rices">
+        <img src="https://img.shields.io/badge/awesome%20rice-555555?style=for-the-badge&logo=awesomelists&label=&labelColor=ea6962&logoColor=555555">
     </a>
 </div>
 
